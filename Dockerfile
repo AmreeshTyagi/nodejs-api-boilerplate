@@ -1,6 +1,6 @@
 FROM node:7.9.0-alpine
 
-MAINTAINER Emanuel Quimper <quimperemanuel@gmail.com> <https://github.com/EQuimper>
+MAINTAINER Amreesh Tyagi <tyagi.amreesh@gmail.com> <https://github.com/AmreeshTyagi>
 
 # create app directory in container
 RUN mkdir -p /app
